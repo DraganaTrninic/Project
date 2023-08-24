@@ -1,5 +1,4 @@
 /*
-Example 1
 Here I create a database for a fictional hospital and tables filled with records for doctors (patient-facing and research-facing) and their patients. 
 I use Boolean values to differentiate between the patient-facing and research-facing doctors. I then reassign the roles of two doctors and create a query 
 with inner joins to check whether any research-facing doctors have patients so that those patients can be reassigned to patient-facing doctors.
