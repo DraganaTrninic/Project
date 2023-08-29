@@ -1,5 +1,5 @@
 
---Here I use publicly available data to analyse aspects of Covid such as infection rates, mortaility, and vaccination.
+--Here I use publicly available data to analyse aspects of Covid such as infection rates, mortality, and vaccination.
 
 SELECT* 
 FROM [PortfolioProjectCovid].[dbo].CovidDeaths 
